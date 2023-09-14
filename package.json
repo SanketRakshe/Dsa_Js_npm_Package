@@ -1,11 +1,18 @@
 {
   "name": "dsa_package.js",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "An npm package that can help you to use all of the famous ds and algo in your coding implementations",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SanketRakshe/Dsa_Js_npm_Package.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dsa_package.js": "^1.0.0"
+  }
 }
